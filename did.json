@@ -10,11 +10,11 @@
       "type": "JsonWebKey2020",
       "publicKeyJwk": {
         "e": "AQAB",
-  "kid": "XEvBOGB9N9PA1pK5ynIn8-iX958WT6jfnWoDB7hmfTE",
-  "kty": "RSA",
-  "n": "4gtPFH2z7rPCO22D1aX6XlQd8Dr08_n2MuLVpr7iD2TLmFagc2AjH5VSGwiNAefxsatyOas53qDWMk3LKh9zA9JlhBt_WBhjqgISKdtle2h5jLWLhdlZOjyE5dga47S769K4V8rBa_VGnGPAl8g2uw2U7AFF5icFN5g5AnHPP_zXUSX2TDwICpa9zdHVWxzmcveTAO0jNazh_eh-nOvLt583EjxSfWooqp6avb9z6209DLXZDR7RSh0rwGFufS1oCGpU61Ge4YcvRwHz6ykn_PCaR1B80QmD_EKIT5cvS-wA7xfm7plc9LCWl8biB8xB-pUDKmGxF2ikiXQq0pH-Bw",
-  "alg": "RS256"
-        "x5u": "did:web:raw.githubusercontent.com:KikoCis:webminar_gaiax:main:public_key.pem"
+        "kid": "XEvBOGB9N9PA1pK5ynIn8-iX958WT6jfnWoDB7hmfTE",
+        "kty": "RSA",
+        "n": "4gtPFH2z7rPCO22D1aX6XlQd8Dr08_n2MuLVpr7iD2TLmFagc2AjH5VSGwiNAefxsatyOas53qDWMk3LKh9zA9JlhBt_WBhjqgISKdtle2h5jLWLhdlZOjyE5dga47S769K4V8rBa_VGnGPAl8g2uw2U7AFF5icFN5g5AnHPP_zXUSX2TDwICpa9zdHVWxzmcveTAO0jNazh_eh-nOvLt583EjxSfWooqp6avb9z6209DLXZDR7RSh0rwGFufS1oCGpU61Ge4YcvRwHz6ykn_PCaR1B80QmD_EKIT5cvS-wA7xfm7plc9LCWl8biB8xB-pUDKmGxF2ikiXQq0pH-Bw",
+        "alg": "RS256"
+        "x5u": "https://raw.githubusercontent.com/KikoCis/webminar_gaiax/refs/heads/main/public_key.pem"
       }
     }
   ],
