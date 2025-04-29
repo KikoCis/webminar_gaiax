@@ -1,0 +1,24 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:raw.githubusercontent.com:KikoCis:webminar_gaiax:main:loire",
+  "verificationMethod": [
+    {
+      "id": "did:web:raw.githubusercontent.com:KikoCis:webminar_gaiax:main:loire#JWK2020-RSA",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:raw.githubusercontent.com:KikoCis:webminar_gaiax:main:loire",
+      "publicKeyJwk": {
+        "kty": "RSA",
+        "n": "4gtPFH2z7rPCO22D1aX6XlQd8Dr08_n2MuLVpr7iD2TLmFagc2AjH5VSGwiNAefxsatyOas53qDWMk3LKh9zA9JlhBt_WBhjqgISKdtle2h5jLWLhdlZOjyE5dga47S769K4V8rBa_VGnGPAl8g2uw2U7AFF5icFN5g5AnHPP_zXUSX2TDwICpa9zdHVWxzmcveTAO0jNazh_eh-nOvLt583EjxSfWooqp6avb9z6209DLXZDR7RSh0rwGFufS1oCGpU61Ge4YcvRwHz6ykn_PCaR1B80QmD_EKIT5cvS-wA7xfm7plc9LCWl8biB8xB-pUDKmGxF2ikiXQq0pH-Bw",
+        "e": "AQAB",
+        "alg": "RS256",
+        "x5u": "https://raw.githubusercontent.com/KikoCis/webminar_gaiax/main/loire/cert.pem"
+      }
+    }
+  ],
+  "assertionMethod": [
+    "did:web:raw.githubusercontent.com:KikoCis:webminar_gaiax:main:loire#JWK2020-RSA"
+  ]
+}
