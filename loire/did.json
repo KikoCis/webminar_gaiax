@@ -11,7 +11,7 @@
       "controller": "did:web:raw.githubusercontent.com:KikoCis:webminar_gaiax:main:loire",
       "publicKeyJwk": {
         "kty": "RSA",
-        "n": "4gtPFH2z7rPCO22D1aX6XlQd8Dr08_n2MuLVpr7iD2TLmFagc2AjH5VSGwiNAefxsatyOas53qDWMk3LKh9zA9JlhBt_WBhjqgISKdtle2h5jLWLhdlZOjyE5dga47S769K4V8rBa_VGnGPAl8g2uw2U7AFF5icFN5g5AnHPP_zXUSX2TDwICpa9zdHVWxzmcveTAO0jNazh_eh-nOvLt583EjxSfWooqp6avb9z6209DLXZDR7RSh0rwGFufS1oCGpU61Ge4YcvRwHz6ykn_PCaR1B80QmD_EKIT5cvS-wA7xfm7plc9LCWl8biB8xB-pUDKmGxF2ikiXQq0pH-Bw",
+        "n": "qZgHuw32nRnOpY8ArSwPBs9VJQN_yoSKtn8g9-G5O9ap9BGzbHfX0MNzdRx-S-YCzDETYHH-mJJAilNM342quUkKLoG9jW6Jlilw8ZbovGlyf5OhUuVG1xPp4Wg7xT9g34VoCQSzFZTXJsZab5IPVSKK6NdRI0plBNiGAUiwQxTbivP4pj46niMxAMCzweFs8PeyJmAcx5-I6O8dc5nCO7stapMhiErXJNTdp6HxEhFAAe2M4asOZ21HsHqw4fHDw_C0Ir8Zo1ECGDzuCRLPXy6JZf1Bbc6Tmm0KnaZnWl5RkUgoLivy0I277JdaEVpx4SuL1Y73rHtUCbBAlH743Q",
         "e": "AQAB",
         "alg": "RS256",
         "x5u": "https://raw.githubusercontent.com/KikoCis/webminar_gaiax/main/loire/cert.pem"
