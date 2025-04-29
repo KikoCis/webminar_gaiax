@@ -6,6 +6,7 @@
   "id": "did:web:raw.githubusercontent.com:KikoCis:webminar_gaiax:main",
   "verificationMethod": [
     {
+      "id": "did:web:raw.githubusercontent.com:KikoCis:webminar_gaiax:main#key-0",
       "type": "JsonWebKey2020",
       "publicKeyJwk": {
         "e": "AQAB",
